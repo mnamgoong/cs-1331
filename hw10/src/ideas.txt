@@ -1,0 +1,16 @@
+1:
+Problem: blah
+Target Customer: blah
+Customer Need: 6
+Known People With Problem: 50
+Target Market Size: 20
+Competitors: blah
+
+2:
+Problem: blah
+Target Customer: blah
+Customer Need: 4
+Known People With Problem: 30
+Target Market Size: 30
+Competitors: blah
+

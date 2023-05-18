@@ -1,0 +1,6 @@
+The error in Bad1.java occurs at compile time because the name of the public
+class BAD1 does not match the name of the file Bad1.
+The error in Bad2.java occurs at runtime because you cannot divide by 0, causing
+the program to terminate at that operation.
+The error in Bad3.java occurs at compile time because the value ‘a’ is a char
+type, which is incompatible with the String type of the variable letter.
